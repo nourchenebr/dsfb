@@ -1,2 +1,5 @@
-# dsfb
-Data Science for Business Project 
+# Data Science For Business Project
+
+An Initial Public Offering (IPO) is the process by which a private company becomes publicly traded on a stock exchange. The IPO company offers its shares to public investors in exchange of capital for sustaining expansion and growth. For this reason, IPOs are often issued by small or young companies, but they can also be done by large  companies looking to become publicly traded. During an IPO, the company obtains the assistance of an investment bank (underwriter), which helps determine the type, amount and price of the shares being offered. Decisions about the offering price are particularly important to avoid incurring excessive costs and maximize the capital received in the IPO. However at the end of the first trading day, price of each share can change due to market dynamics, which can lead to a price higher or lower than the offering one. 
+
+In this project, we are provided with IPO data of different firms that are collected from different sources. You can find the dataset under the name *ipo.xlsx*. The description of other variables can be found in *variable_description.xlsx*. We will have to predict whether the closing price is higher than the offering price.
